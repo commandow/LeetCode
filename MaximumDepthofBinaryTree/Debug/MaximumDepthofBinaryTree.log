@@ -1,0 +1,14 @@
+﻿生成启动时间为 2014-11-09 13:17:47。
+     1>项目“G:\Github\LeetCode\MaximumDepthofBinaryTree\MaximumDepthofBinaryTree.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt max_depth_of_binary_tree.cpp
+         max_depth_of_binary_tree.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Github\LeetCode\Debug\MaximumDepthofBinaryTree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Github\LeetCode\Debug\MaximumDepthofBinaryTree.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Github\LeetCode\Debug\MaximumDepthofBinaryTree.lib" /MACHINE:X86 Debug\max_depth_of_binary_tree.obj
+     1>LINK : fatal error LNK1561: 必须定义入口点
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(607,5): error MSB6006: “link.exe”已退出，代码为 1561。
+     1>已完成生成项目“G:\Github\LeetCode\MaximumDepthofBinaryTree\MaximumDepthofBinaryTree.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:08.93
